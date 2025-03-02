@@ -1,0 +1,6 @@
+*
+!/.gitattributes
+!/.gitignore
+!/main.cc
+!/Makefile
+!/README.md
